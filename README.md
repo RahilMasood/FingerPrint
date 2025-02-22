@@ -17,3 +17,4 @@ The model is a **Deep CNN** with:
 ## Future Improvements
 - Creating a frontend for this.
 - Increase dataset size for better generalization.
+- Fine-tune hyperparameters (learning rate, dropout, batch size).
